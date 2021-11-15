@@ -27,7 +27,7 @@ void setup()
   display.update();
 
   // Disable power to EPD
-  digitalWrite(12, LOW);
+  digitalWrite(12, HIGH);
 }
 
 void loop()
