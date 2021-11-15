@@ -1,6 +1,6 @@
 # Minimal example using GxEPD
 
-![Full Image](minimal.jpg)
+![Full Image](minimal.png)
 
 ## Install Library Dependencies (from arduino library manager)
   - Adafruit GFX library by Adafruit (tested with v1.7.5)
