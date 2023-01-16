@@ -1,5 +1,7 @@
 # Minimal example using GxEPD
 
+Note: Recommend to use the new [Paperd.Ink library](https://github.com/paperdink/PaperdInk-Library) or [GxEPD2](https://github.com/paperdink/minimal_GxEPD2).
+
 ![Full Image](minimal.png)
 
 ## Install Library Dependencies (from arduino library manager)
